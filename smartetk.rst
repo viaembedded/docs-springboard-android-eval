@@ -254,7 +254,7 @@ UART Parameters
 ---------------
 
 SmartETK defines UART (Universal Asynchronous Receiver/Transmitter)
-related values into another class`` com.via.UartConfig`` for configuration.
+related values into another class ``com.via.UartConfig`` for configuration.
 Instead of one-time setup for other devices, UART is transferring data
 continually. Developers may blocked read, selected read, or buffered read
 from UART. In order to provide developers all types of transmissions, the
