@@ -11,8 +11,13 @@ The source code of this documentation is on Github_. You can contribute to the d
 Also, you can use that source to compile these docs in any other form supported by Sphix,
 our documentation engine: PDF, epub, ...
 
+If you find information in the document that needs correction, please let us know at this
+document's Issues_ page, where you can submit bug reports. Fixes and pull requests are also
+appreciated!
+
 .. _Documentation Directory: http://viaembedded.github.io/docs/#vab600
 .. _Github: https://github.com/viaembedded/docs-springboard-android-eval
+.. _Issues: https://github.com/viaembedded/docs-springboard-android-eval/issues
 
 Copyright
 ---------
@@ -65,6 +70,7 @@ Table of Contents
    environment.rst
    image.rst
    smartetk.rst
+   appendix.rst
 
 Indices and tables
 ==================
