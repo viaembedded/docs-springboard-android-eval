@@ -74,7 +74,7 @@ control the low level GPIO.
 applications.
 
 All the features can be examined through the demo application
-``BoardSupportICS.apk``. The home UI of “SmartETK_sample.apk” is shown as
+``SmartETK_sample.apk``. The home UI of “SmartETK_sample.apk” is shown as
 :num:`Figure #figure-smartetk-sample`.
 
 .. _figure-smartetk-sample:
