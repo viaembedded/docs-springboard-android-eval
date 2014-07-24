@@ -62,6 +62,9 @@ Table of Contents
    booting.rst
    functionality.rst
    debug.rst
+   environment.rst
+   image.rst
+   smartetk.rst
 
 Indices and tables
 ==================
